@@ -3,7 +3,7 @@ Database of the Ion Composition Boundary and Induced Magnetosphere Boundary cros
 
 
 ## ICB TXT files
-###Columns:
+### Columns:
 1. Date/Time of ICB location
 2. IAU Altitude of ICB [km]
 3. MSO position of ICB [Rmars]
