@@ -13,5 +13,3 @@ Database of the Ion Composition Boundary and Induced Magnetosphere Boundary cros
 ### Empty values:
 - Date/Time : 0000-00-00/00:00:00
 - Position info: NaN
-
-![Image of 2D histogram of ICB locations in cylindrical Mars-Solar-Orbiter coordinates from JGR publication.](https://agupubs.onlinelibrary.wiley.com/cms/asset/b0bc4055-57ca-4237-ad93-54c2ee15c6f0/jgra58324-fig-0005-m.jpg)
